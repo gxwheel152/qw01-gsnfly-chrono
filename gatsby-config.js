@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'The QA Code',
+    siteDescription: 'A Site Focused on Quality based on the Gatsby Starter Chronoblog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://qacode03-gsnfly-chrono.netlify.app/tags/project',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Gardner Wheeler', // for example - 'Ivan Ganev'
+    authorDescription: 'A Software Professional focused on quality', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
-    twitterCreator: '', // creator account on twitter
+    twitterCreator: 'https://twitter.com/gxwheel152', // creator account on twitter
     social: [
       {
         icon: `at`,
@@ -19,11 +19,11 @@ module.exports = {
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/gxwheel152`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/gxwheel152`
       },
       {
         icon: `node-js`,

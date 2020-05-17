@@ -1,11 +1,11 @@
 ---
-title: 'Link to Chronoblog Theme repo'
-cover: ./image.jpg
-date: 2019-11-12
+title: 'Gatsbyjs Chronoblog Theme repo'
+cover: ./banner-small.png
+author: Gardner
+date: 2020-05-11
 link: https://github.com/Ganevru/gatsby-theme-chronoblog
-tags: ['link', 'project']
+tags: ['links']
 ---
 
-**Link card** is a card, when clicked, the user goes to the specified link.
+**A Link** to the <FontAwesomeIcon icon={['fab','js-square']} /> Gatsbyjs theme, on which this blog is built*
 
-Use it to refer to your articles on other resources, to your new works (wherever they are posted: Github, Dribbble or anything else), to the certificates you received, and in general, to whatever is more convenient give a link.

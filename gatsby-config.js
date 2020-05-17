@@ -39,7 +39,7 @@ module.exports = {
         uiText: {
           // ui text fot translate
           feedShowMoreButton: 'show more',
-          feedSearchPlaceholder: 'search',
+          feedSearchPlaceholder: 'search tags',
           cardReadMoreButton: 'read more →',
           allTagsButton: 'all tags'
         },

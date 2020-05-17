@@ -6,7 +6,7 @@ author: 'Gardner W.'
 slug: qa-to-life/hiking-exhilarates
 description: 'Thoughts on how hiking adds to the qualify of your life'
 tags:
-  - 'qa>life'
+  - 'qa-to-life'
   - 'hiking'
 draft: false
 hide: false

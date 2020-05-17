@@ -6,7 +6,7 @@ author: 'Gardner W.'
 slug: qa-to-dev/early-adopter-no-quality-no-thanks
 description: 'Thoughts on why I want stuff to work when I get home'
 tags:
-  - 'qa>dev'
+  - 'qa-to-dev'
   - 'testing for free'
   - 'testing at home'
 draft: false

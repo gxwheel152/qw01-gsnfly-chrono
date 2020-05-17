@@ -6,7 +6,7 @@ author: 'Gardner W.'
 slug: qa-to-dev/i-am-quality-hear-me-roar
 description: 'Thoughts on why I might have been focused on how things work right from the start'
 tags:
-  - 'qa>dev'
+  - 'qa-to-dev'
   - 'why testing'
 draft: true
 hide: false

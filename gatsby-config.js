@@ -1,35 +1,36 @@
 module.exports = {
   siteMetadata: {
     siteTitle: 'The QA Code',
-    siteDescription: 'A Site Focused on Quality based on the Gatsby Starter Chronoblog',
-    siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://qacode03-gsnfly-chrono.netlify.app/tags/project',
+    siteDescription:
+      "A Site Dedicated to Living a Quality Life. We start with a few things we've learned by building Quality Infused Software, but that's just the beginning.",
+    siteImage: '/qc512x512.png', // main image of the site for metadata
+    siteUrl: 'https://theqacode.netlify.app/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Gardner Wheeler', // for example - 'Ivan Ganev'
-    authorDescription: 'A Software Professional focused on quality', // short text about the author
-    avatar: '/avatar.jpg',
+    author: 'The Quality Code', // for example - 'Ivan Ganev'
+    authorDescription: 'A Quality Infused Life ==> A Good Life!', // short text about the author
+    avatar: '/qc512x512.png',
     twitterSite: '', // website account on twitter
     twitterCreator: 'https://twitter.com/gxwheel152', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:theqacode@gmail.com`
+        url: `mailto:theqacode@gmail.com`,
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/gxwheel152`
+        url: `https://twitter.com/gxwheel152`,
       },
       {
         icon: `github`,
-        url: `https://github.com/gxwheel152`
+        url: `https://github.com/gxwheel152`,
       },
       {
         icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
-      }
-    ]
+        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
+      },
+    ],
   },
   plugins: [
     {
@@ -40,7 +41,7 @@ module.exports = {
           feedShowMoreButton: 'show more',
           feedSearchPlaceholder: 'search',
           cardReadMoreButton: 'read more →',
-          allTagsButton: 'all tags'
+          allTagsButton: 'all tags',
         },
         feedItems: {
           // global settings for feed items
@@ -49,14 +50,14 @@ module.exports = {
           yearSeparatorSkipFirst: true,
           contentTypes: {
             links: {
-              beforeTitle: '🔗 '
-            }
-          }
+              beforeTitle: '🔗 ',
+            },
+          },
         },
         feedSearch: {
-          symbol: '🔍'
-        }
-      }
+          symbol: '🔍',
+        },
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -67,18 +68,18 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`
-      }
+        icon: `src/assets/favicon.png`,
+      },
     },
     {
-      resolve: `gatsby-plugin-sitemap`
+      resolve: `gatsby-plugin-sitemap`,
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: 'UA-XXXXXXXXX-X'
-      }
-    }
-  ]
+        trackingId: 'UA-XXXXXXXXX-X',
+      },
+    },
+  ],
 };

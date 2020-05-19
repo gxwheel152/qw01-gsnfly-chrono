@@ -1,6 +1,8 @@
+<p align="center">
 <a href="https://theqacode.netlify.app/" target="_blank">
 <img src="https://github.com/gxwheel152/theqacode/blob/master/static/theqacodeBanner.png" alt="The QA Code" />
 </a>
+</p>
 
 <h1 align="center">
 The Quality Code

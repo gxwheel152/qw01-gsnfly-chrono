@@ -52,3 +52,7 @@ And then a most magical moment happens for me. Despite my diminutive size compar
 - If I'm so inspired, I must also be powerful and amazing
 - And, although I am small and insignificant
 - I should dare to dream and to do incredible things
+
+## Conclusion
+
+This is one of the reasons hiking increases the quality of your life. There are others. If you've got some good experiences, hit us up on [<FontAwesomeIcon icon={['fab','twitter']} /> Twitter](https://twitter.com/gxwheel152)! 

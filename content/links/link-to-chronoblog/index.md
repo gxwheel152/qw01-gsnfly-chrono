@@ -7,5 +7,6 @@ link: https://github.com/Ganevru/gatsby-theme-chronoblog
 tags: ['links']
 ---
 
-**A Link** to the <FontAwesomeIcon icon={['fab','js-square']} /> Gatsbyjs theme, on which this blog is built*
+
+**A Link** to the <FontAwesomeIcon icon={['fab','js-square']} /> Gatsbyjs theme, on which this blog is built
 

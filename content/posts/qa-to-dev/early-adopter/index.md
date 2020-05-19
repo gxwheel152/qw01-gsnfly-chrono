@@ -3,7 +3,7 @@ title: 'Become an Early Adopter, No Thanks OR Why I Hate Products that Don’t A
 cover: ./museums-victoria-9tnDzOQYb2o-unsplash.jpg
 date: 2020-05-15
 author: 'Gardner W.'
-slug: qa-to-dev/early-adopter-no-quality-no-thanks
+slug: qa-to-dev/early-adopter-no-thanks
 description: 'Thoughts on why I want stuff to work when I get home'
 tags:
   - 'qa-to-dev'

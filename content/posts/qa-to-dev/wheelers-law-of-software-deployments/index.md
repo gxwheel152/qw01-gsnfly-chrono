@@ -4,7 +4,7 @@ cover: ./luke-bender-2jqtZ-wf45Q-unsplash.jpg
 date: 2020-05-21
 author: 'Gardner W.'
 slug: qa-to-dev/wheelers-law-of-software-deployments
-description: 'Is the Environment Really Ready or why it takes many, many hours to start actual testing '
+description: 'Thoughts on how QA gets lambasted for delays caused by others'
 tags:
   - 'qa-to-dev'
   - 'software deployments'
@@ -81,7 +81,7 @@ Now, most devs I've met will not even acknowledge that Wheeler's Law of software
 
 Those devs who do, must be remembered as the rock stars they are. I know they are rock stars because I have the ticket stubs from their last rock concerts to prove it.
 
- Most devs on the other hand have been "Dev Complete" and sipping margaritas on a beach or at another beautiful location for so long they don't even remember there's a project going on. 
+ Most devs on the other hand have been "Dev Complete" and sipping margaritas at some relaxing location for so long they don't even remember there's a project going on. 
 
 > But what the hell does Dev Complete mean anyway is not our topic for today's discussion
 

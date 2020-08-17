@@ -22,19 +22,19 @@ According to many business books Ernest Shackleton placed an advert to find men 
 
 ## Is a Job in QA Really that Hazardous - an Anecdotal Reference
 
-A job in software testing or Quality Assurance (QA) as it's commonly called, may be as hazardous, at least career-wise, as a journey to the South Pole. Let me explain. 
+Yes, a job in software testing or Quality Assurance (QA) as it's commonly called, may be as hazardous, at least career-wise, as a journey to the South Pole. Let me explain. 
 
-When starting work in Duesseldorf, Germany, the European headquarters of software consultancy at which I worked, the business development team realized that the position they had originally brought me across the Atlantic to perform was no longer a viable option (common in consulting firms who rely on project work). 
+Upon my arrival in Duesseldorf, Germany, the European headquarters of the software consultancy at which I worked, the business development team realized the position they had originally brought me across the Atlantic to perform was no longer a viable option (common in consulting firms who rely on project work). 
 
-After a couple of days the business development manager, a talented and extremely supportive colleague, asked me on odd question: 
+Then, after a couple of days the business development manager, a talented and extremely supportive colleague, asked me on odd question about a placement: 
 
-> I have an opportunity for placement, but it's in testing, so I need to check with you first. Most people who have tested software, aren't willing to admit it on their CVs ([curriculum vitae](https://en.wikipedia.org/wiki/Curriculum_vitae) || a longer version of a [résumé](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9) that is commonly used in the US). But you listed testing on your CV. Was that on purpose? Cheers, Your Business Development Team
+> I have an opportunity for placement, but it's in testing, so I felt I needed to check with you first. Most people who have tested software, aren't willing to admit it on their CVs ([curriculum vitae](https://en.wikipedia.org/wiki/Curriculum_vitae)). But, you listed testing on your CV, so I just have to ask || Was that on purpose? Cheers, Your Business Development Team
 
 Turns out I was one of the brave souls, who hazarded an Information Technology (IT) career with testing on their CV.
 
 ## Assuming a Job in QA Truly is that Hazardous - Here's a Job Description Modeled after the Mythical Shackleton Advert
 
-For this article, we'll assume that a job in software testing is just as hazardous to your IT career as an expedition to the Antarctic. Given this assumption, here's how I recommend IT professionals looking to hire talented software testers write their job descriptions going forward: 
+For this article, we'll assume that a job in software testing is just as hazardous to your IT career as an expedition to the Antarctic can be to your life. Given this assumption, here's how I recommend IT professionals looking to hire talented software testers write their job descriptions going forward:
 
 > Brave souls wanted for hazardous endeavors. Lower wages than most jobs related to building software, bitterly cold shoulders from many colleagues expected, business reps to IT may also treat you with disdain, long hours working in isolation while other roles in IT enjoy recognition and respect. Safe return to other roles in IT doubtful. Internal satisfaction from knowing you contributed to a quality product the only possible reward >>> in event of survival. 
 

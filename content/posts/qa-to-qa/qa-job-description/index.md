@@ -36,7 +36,7 @@ Turns out I was one of the brave souls, who hazarded an Information Technology (
 
 For this article, we'll assume that a job in software testing is just as hazardous to your IT career as an expedition to the Antarctic. Given this assumption, here's how I recommend IT professionals looking to hire talented software testers write their job descriptions going forward: 
 
-> Brave souls wanted for hazardous endeavors. Lower wages than most jobs related to building software, bitterly cold shoulders from many colleagues expected, business reps to IT may also treat you with disdain, long hours working in isolation while other roles in IT enjoy recognition and respect. Safe return to to other roles in IT doubtful. Internal satisfaction from knowing you contributed to a quality product the only possible reward >>> in event of survival. 
+> Brave souls wanted for hazardous endeavors. Lower wages than most jobs related to building software, bitterly cold shoulders from many colleagues expected, business reps to IT may also treat you with disdain, long hours working in isolation while other roles in IT enjoy recognition and respect. Safe return to other roles in IT doubtful. Internal satisfaction from knowing you contributed to a quality product the only possible reward >>> in event of survival. 
 
 ## Conclusion
 
